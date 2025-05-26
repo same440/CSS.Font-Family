@@ -1,0 +1,44 @@
+/* ========= Font Family ========= */
+/* ফন্টের ধরন ঠিক করতে font-family ব্যবহার করা হয় */
+
+.serif-font {
+  font-family: 'Times New Roman', Georgia, serif; 
+  /* EN: Serif fonts with small lines at ends */
+  /* BN: সিরিফ ফন্ট – অক্ষরের শেষে ছোট দাগ থাকে */
+}
+
+.sans-serif-font {
+  font-family: Arial, Verdana, sans-serif;
+  /* EN: Sans-serif – clean fonts without extra strokes */
+  /* BN: সেন্স-সিরিফ – পরিষ্কার ও সহজ ফন্ট */
+}
+
+.monospace-font {
+  font-family: 'Courier New', monospace;
+  /* EN: Monospace – equal space for all characters */
+  /* BN: মনোস্পেস – প্রতিটি অক্ষর সমান জায়গা নেয় */
+}
+
+.cursive-font {
+  font-family: 'Brush Script MT', cursive;
+  /* EN: Cursive – handwritten style */
+  /* BN: কারসিভ – হাতে লেখা মতো স্টাইল */
+}
+
+.fantasy-font {
+  font-family: Papyrus, fantasy;
+  /* EN: Fantasy – decorative or creative fonts */
+  /* BN: ফ্যান্টাসি – অলঙ্কারিক ও কল্পনাময় ফন্ট */
+}
+
+.google-font {
+  font-family: 'Poppins', sans-serif;
+  /* EN: Google font Poppins with fallback */
+  /* BN: গুগল ফন্ট Poppins + ব্যাকআপ sans-serif */
+}
+
+.bungee-font {
+  font-family: 'Bungee Spice', cursive;
+  /* EN: Google font Bungee Spice */
+  /* BN: স্টাইলিশ গুগল ফন্ট Bungee Spice */
+}
